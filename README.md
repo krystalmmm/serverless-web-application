@@ -1,2 +1,2 @@
-# serverless-web-application
+# serverless-web-application(wildrydes-site)
 This is a project to build a serverless web application using AWS Lambda, Amazon API Gateway, AWS Amplify, Amazon DynamoDB and Amazon Cognito.
